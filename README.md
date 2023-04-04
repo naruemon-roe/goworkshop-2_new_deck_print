@@ -1,5 +1,8 @@
 # GoWorkshop-2_New_Deck_Print
 
+Go run main.go
+Go build main.go
+ >> ./main.go
 
 
 ## Getting started
